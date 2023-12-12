@@ -1,2 +1,2 @@
-# ms-auth-spring_security
+# Spring Security - JWT
 Autenticação utilizando Spring Security e JWT.
